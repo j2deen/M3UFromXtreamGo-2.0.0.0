@@ -1,6 +1,6 @@
 # M3UFromXtream
 
-This was completely adopted from https://github.com/BillOatmanWork/M3UFromXtream/tree/V1.0.0.0 thank you for your original code I added some capabilities for my purpose that might be useful to others so I've extended it and converted it into GoLang so it's a bit more selfcontained for docker. I have kept the same license and suggested charitable work as a tribute to the orginal author.
+This was completely adopted from https://github.com/BillOatmanWork/M3UFromXtream/tree/V1.0.0.0 thank you for your original code I added some capabilities for my purpose that might be useful to others so I've extended it and converted it into GoLang so it's a bit more selfcontained for docker. I have kept the same license and suggested charitable donation as a thank you to the orginal author.
 
 A dual-mode application to create M3U playlists from Xtream Code API. Supports both CLI and web server modes, with Docker containerization for easy deployment.
 
@@ -214,5 +214,6 @@ docker run -p 8080:8080 \
 ## Good Karma
 
 This application is free. If you find it of value and have the means, please consider making a donation to a local charity that benefits children.
+
 
 
